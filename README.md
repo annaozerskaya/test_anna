@@ -1,5 +1,5 @@
 # test_anna
-First Header  | Second Header | First Header  | Second Header | Second Header
+Key  | Type | Required  | Description | Default
 ------------- | ------------- | ------------- | ------------- | -------------
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
