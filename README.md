@@ -1,5 +1,5 @@
 # test_anna
-| Attempt | #1 | #2 | #3 | #4 | 
+| Key | Type | Required | Description | Default | 
 | :---: | :---: | :---: | :---: | :---: | 
 | Seconds | 301 | 283 | 290 | 286 | 
 
