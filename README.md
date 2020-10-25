@@ -8,3 +8,4 @@ spec.rule  | map  | false  | A list of host rules used to configure the Ingress.
 spec.rule.http  | map  | true  | is a list of http selectors pointing to backends. | none
 http.path.backend  | map  | true  | Defines the referenced service endpoint to which the traffic will be forwarded to.  | none
 http.path.path  | string  | true  | String or an extended POSIX regular expression as defined by matched against the path of an incoming request.  | sending traffic to the backend
+spec.tls  | map  | false  | Currently the Ingress only supports a single TLS port, 443.  | none
